@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "beerAppOnline",
+    "packageName": "com.sentenceman.beerapp.application",
+    "packageFolder": "com/sentenceman/beerapp/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.1.2",
+    "jwtSecretKey": "OWYwYTVkNzVhNmZhZDc3ZWY3N2NmOTRlMjU4MGZhOTViZjU5ZTI1NDYxMGJhM2VjNDNmMWY0MjljMzJhOWEzNWRmNDNhMGQ1NjgwOGU5MDA3Y2Y0OTA4MjFiYmNmZmMzZGE3NDgzZGE2MTEwOWY2MmMyZDhhOGI4ZDhkMzNjMzA=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "svendhhh",
+  "repository-name": "beerAppOnline"
+}
